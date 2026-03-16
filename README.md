@@ -180,7 +180,7 @@ console.log(`${pablo.nombre} está listo para crear cosas increíbles! 🚀`);
   
   <br>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hablemos%20de%20tecnología-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pablo-torres-clavijo/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hablemos%20de%20tecnología-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-torres-clavijo/)
   [![Gmail](https://img.shields.io/badge/Email-Mándame%20un%20mensaje-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablotc05@gmail.com)
   
   <br>
