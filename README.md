@@ -19,7 +19,7 @@
   
   <br>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](www.linkedin.com/in/pablo-torres-clavijo)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](www.linkedin.com/in/pablo-torres-clavijo/)
   [![Email](https://img.shields.io/badge/Email-Hablemos-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:pablotc05@gmail.com)
   
 </div>
@@ -180,13 +180,13 @@ console.log(`${pablo.nombre} está listo para crear cosas increíbles! 🚀`);
   
   <br>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hablemos%20de%20tecnología-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pablo-torres-clavijo)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hablemos%20de%20tecnología-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pablo-torres-clavijo/)
   [![Gmail](https://img.shields.io/badge/Email-Mándame%20un%20mensaje-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablotc05@gmail.com)
   
   <br>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=pablotc05&color=00d9ff&style=for-the-badge&label=Visitantes)
-  [![GitHub followers](https://img.shields.io/github/followers/GiovanniBarroso?logo=github&style=for-the-badge&color=00d9ff&labelColor=0d1117)](https://github.com/GiovanniBarroso)
+  [![GitHub followers](https://img.shields.io/github/followers/PabloTorresClavijo?logo=github&style=for-the-badge&color=00d9ff&labelColor=0d1117)](https://github.com/PabloTorresClavijo)
   
 </div>
 
