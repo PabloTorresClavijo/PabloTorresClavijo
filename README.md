@@ -19,7 +19,7 @@
   
   <br>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](www.linkedin.com/in/pablo-torres-clavijo/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/pablo-torres-clavijo/)
   [![Email](https://img.shields.io/badge/Email-Hablemos-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:pablotc05@gmail.com)
   
 </div>
