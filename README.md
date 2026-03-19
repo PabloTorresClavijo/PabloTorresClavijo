@@ -88,6 +88,12 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+<img src="https://img.shields.io/badge/Server-4B275F?style=for-the-badge&logo=serverfault&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux%20Server-333333?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Hosting-0A66C2?style=for-the-badge&logo=cloudflare&logoColor=white" />
+
+
 
 </p>
 
