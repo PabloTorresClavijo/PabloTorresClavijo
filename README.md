@@ -85,15 +85,19 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
   <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite">
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux%20Server-333333?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Hosting-0A66C2?style=for-the-badge&logo=cloudflare&logoColor=white" />
-
-
-
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/Linux%20Server-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Server">
+  <img src="https://img.shields.io/badge/Hosting-0A66C2?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Hosting">
+</p>
+
 
 #### 📦 Otros
 <p>
