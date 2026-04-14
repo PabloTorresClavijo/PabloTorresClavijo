@@ -186,7 +186,6 @@ console.log(`${pablo.nombre} está listo para crear cosas increíbles! 🚀`);
 ---
 
 
----
 
 ## 🤝 ¡Conectemos!
 
