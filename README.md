@@ -141,6 +141,7 @@
 > *Proyecto de mi portfolio de pesca*
 
 **🎯 Objetivo:** Desarrollar una plataforma Full Stack de alto rendimiento para centralizar contenido técnico de pesca, optimizada para dispositivos móviles y con estándares de seguridad avanzados.  
+<br>
 **⚡ Aprendizajes:** Dominio de React 18 y TypeScript para crear una SPA con carga diferida, mejorando drásticamente el rendimiento y la experiencia de usuario. 
 
 **[🔗 Ver Repositorio](https://github.com/PabloTorresClavijo/pablotcfishing)**
