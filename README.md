@@ -145,7 +145,7 @@
 
 **[🔗 Ver Repositorio](https://github.com/PabloTorresClavijo/pablotcfishing)**
 
-<br>[![Web](https://img.shields.io/badge/Web-En_Línea-success?style=for-the-badge&logo=server&logoColor=white)](https://pablotcfishing.com)
+<br>[![Web](https://img.shields.io/badge/Web-En_Linea-success?style=for-the-badge&logo=generic-express&logoColor=white)](https://pablotcfishing.com)
 ---
 
 ## 🎭 Más sobre mí
