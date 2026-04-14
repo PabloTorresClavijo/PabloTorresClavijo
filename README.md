@@ -146,7 +146,9 @@
 **[🔗 Ver Repositorio](https://github.com/PabloTorresClavijo/pablotcfishing)**
 
 <img src="https://img.shields.io/badge/Hosting-0A66C2?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Hosting">
-
+![En vivo](https://img.shields.io/badge/Status-Activa-success?style=for-the-badge&logo=statuspage&logoColor=white)
+![Hosting](https://img.shields.io/badge/Hosting-Hostinger_Live-0099ff?style=for-the-badge&logo=hostinger&logoColor=white)
+[![Hosting](https://img.shields.io/badge/Web-En_Línea-success?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pablotcfishing.com)
 ---
 
 ## 🎭 Más sobre mí
