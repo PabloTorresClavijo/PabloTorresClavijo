@@ -131,7 +131,23 @@
 <br>
 
 ---
+## 🎮 Proyectos Destacados
 
+<div align="center">
+
+### 🎣 **PabloTC Fishing**
+<img src="https://img.shields.io/badge/Estado-Completado-28a745?style=flat-square"> <img src="https://img.shields.io/badge/Tipo-Portfolio-blue?style=flat-square">
+
+> *Proyecto de mi portfolio de pesca*
+
+**🎯 Objetivo:** Desarrollar una plataforma Full Stack de alto rendimiento para centralizar contenido técnico de pesca, optimizada para dispositivos móviles y con estándares de seguridad avanzados.  
+**⚡ Aprendizajes:** Dominio de React 18 y TypeScript para crear una SPA con carga diferida, mejorando drásticamente el rendimiento y la experiencia de usuario. 
+
+**[🔗 Ver Repositorio](https://github.com/PabloTorresClavijo/pablotcfishing)**
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+
+---
 ---
 
 ## 🎭 Más sobre mí
