@@ -158,7 +158,7 @@ const pablo = {
             payments: ["PayPal API"]
         },
         databases: ["PostgreSQL", "MySQL", "SQL Server"],
-        tools: ["Supabase", "Git", "Docker (básico)", "pnpm", "Aseprite"]
+        tools: ["Supabase", "Git", "Docker (básico)", "pnpm"]
     },
     
     // 💝 Pasiones
