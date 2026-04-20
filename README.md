@@ -149,6 +149,19 @@
 [![Web](https://img.shields.io/badge/Web-En_Linea-success?style=for-the-badge&logo=generic-express&logoColor=white)](https://pablotcfishing.com)
 
 ---
+### 🎡 **La Manivela - Portal de Socios**
+<img src="https://img.shields.io/badge/Estado-Entregado-28a745?style=flat-square"> <img src="https://img.shields.io/badge/Tipo-Plataforma_Privada-blue?style=flat-square">
+
+Sistema de gestión interna y comunicación para Caseta de Feria
+
+🎯 Objetivo: Digitalizar la operativa de una asociación tradicional mediante una plataforma privada, centralizando documentos, noticias y galerías multimedia bajo un entorno seguro con acceso restringido.
+
+
+⚡ Aprendizajes: Implementación de un sistema robusto de gestión de roles (RBAC) y lógica de autenticación para garantizar la privacidad de los datos de los socios y la integridad de los documentos internos.
+
+🔒 Acceso Restringido (Contenido privado por motivos de confidencialidad y seguridad de los socios)
+
+---
 ## 🎭 Más sobre mí
 
 ```javascript
