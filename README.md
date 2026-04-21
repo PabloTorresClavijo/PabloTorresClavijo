@@ -163,7 +163,7 @@
 
 🔒 Acceso Restringido (Contenido privado por motivos de confidencialidad y seguridad de los socios)
 
-[![Web](https://img.shields.io/badge/Web-En_Linea-success?style=for-the-badge&logo=generic-express&logoColor=white)]
+![Web](https://img.shields.io/badge/Web-En_Linea-success?style=for-the-badge&logo=generic-express&logoColor=white)
 
 ---
 ## 🎭 Más sobre mí
