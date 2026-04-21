@@ -159,7 +159,11 @@
 
 **⚡ Aprendizajes:** Implementación de un sistema robusto de gestión de roles (RBAC) y lógica de autenticación para garantizar la privacidad de los datos de los socios y la integridad de los documentos internos.
 
+**[🔗 Ver Repositorio](https://github.com/PabloTorresClavijo/lamanivela)**
+
 🔒 Acceso Restringido (Contenido privado por motivos de confidencialidad y seguridad de los socios)
+
+[![Web](https://img.shields.io/badge/Web-En_Linea-success?style=for-the-badge&logo=generic-express&logoColor=white)]
 
 ---
 ## 🎭 Más sobre mí
