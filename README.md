@@ -201,48 +201,74 @@
 
 ## 🎭 Más sobre mí
 
-<div class="bg-[#1e1e1e] text-[#d4d4d4] font-mono p-6 rounded-lg shadow-2xl max-w-3xl border border-gray-700">
-  
-  <div class="flex gap-2 mb-4 border-b border-gray-700 pb-2">
-    <div class="w-3 h-3 rounded-full bg-red-500"></div>
-    <div class="w-3 h-3 rounded-full bg-yellow-500"></div>
-    <div class="w-3 h-3 rounded-full bg-green-500"></div>
-    <span class="text-xs text-gray-500 ml-2">pablo_torres.js</span>
-  </div>
-
-  <div class="overflow-x-auto">
-    <pre class="whitespace-pre">
-<span class="text-blue-400">const</span> <span class="text-yellow-200">pablo</span> = {
-    <span class="text-gray-500">// 🏠 Datos básicos</span>
-    nombre: <span class="text-orange-300">"Pablo Torres Clavijo"</span>,
-    ubicacion: <span class="text-orange-300">"Sevilla (España) 🇪🇸"</span>,
-    rol: <span class="text-orange-300 text-bold">"Full-Stack Developer & Cybersecurity Specialist"</span>,
-
-    <span class="text-gray-500">// 🎓 Formación Académica</span>
+```javascript
+const pablo = {
+    // 🏠 Datos básicos
+    nombre: "Pablo Torres Clavijo",
+    ubicacion: "Sevilla (España) 🇪🇸",
+    rol: "Full-Stack Developer & Cybersecurity Specialist",
+    
+    // 🎓 Formación Académica
     formacion: {
-        gradoMedio: <span class="text-orange-300">"SMR"</span>,
-        gradoSuperior: <span class="text-orange-300">"DAW"</span>,
-        postgrado: <span class="text-orange-300">"Máster en Ciberseguridad"</span>
+        gradoMedio: "SMR (Sistemas Microinformáticos y Redes)",
+        gradoSuperior: "DAW (Desarrollo de Aplicaciones Web)",
+        postgrado: "Máster en Ciberseguridad"
     },
 
-    <span class="text-gray-500">// 🎯 Stack tecnológico</span>
+    // 🎯 Stack tecnológico (proyectos reales)
     stack: {
-        frontend: [<span class="text-orange-300">"Vue 3"</span>, <span class="text-orange-300">"React"</span>, <span class="text-orange-300">"TS"</span>, <span class="text-orange-300">"Tailwind"</span>],
-        backend: [<span class="text-orange-300">"Node.js"</span>, <span class="text-orange-300">"PHP"</span>, <span class="text-orange-300">"Laravel"</span>],
-        cybersecurity: [<span class="text-orange-300">"Pentesting"</span>, <span class="text-orange-300">"Audit"</span>, <span class="text-orange-300">"OWASP"</span>]
+        frontend: {
+            frameworks: ["Vue 3", "React"],
+            languages: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
+            styling: ["TailwindCSS"],
+            tools: ["Vite"],
+            design: ["Figma"]
+        },
+        backend: {
+            languages: ["JavaScript", "PHP"],
+            runtime: "Node.js",
+            frameworks: ["Express.js", "Laravel"],
+            apis: ["REST APIs"],
+            auth: ["JWT", "Magic Link Auth"],
+            payments: ["PayPal API"]
+        },
+        cybersecurity: {
+            skills: ["Pentesting web", "Auditoría de código", "Seguridad en redes", "OWASP Top 10"],
+            tools: ["Wireshark", "Nmap", "Burp Suite (básico)"]
+        },
+        databases: ["PostgreSQL", "MySQL", "SQL Server"],
+        tools: ["Supabase", "Git", "Docker (básico)", "pnpm"]
     },
-
-    <span class="text-gray-500">// 🌟 Estado actual</span>
-    disponible: <span class="text-blue-400">true</span>,
-    filosofia: <span class="text-orange-300">"Security by design"</span>
+    
+    // 💝 Pasiones
+    pasiones: [
+        "Desarrollo web con enfoque DevSecOps 🛡️",
+        "Arquitecturas escalables y seguras 🏗️",
+        "UI/UX funcional y limpia 🎨",
+        "Código mantenible, legible y hardening de apps ✨"
+    ],
+    
+    // 🌟 Estado actual
+    estado: "Buscando oportunidad en Desarrollo Web o Ciberseguridad",
+    disponible: true,
+    explorando: ["NestJS", "Prisma", "Seguridad en la nube (AWS/Azure)"],
+    
+    // 💭 Filosofía de código
+    filosofia: "Security by design & Clarity over speed.",
+    
+    // 🚀 Próximo objetivo
+    proximoReto: "Unir mis conocimientos de desarrollo y seguridad en un equipo profesional"
 };
 
-<span class="text-green-400">console</span>.<span class="text-yellow-200">log</span>(<span class="text-orange-300">`🚀 ${pablo.nombre} ready to secure & build!`</span>);
-    </pre>
-  </div>
-</div>
+console.log(`${pablo.nombre} está listo para crear y proteger soluciones increíbles! 🚀🛡️`);
+
+```
+
+---
 
 
+
+## 🤝 ¡Conectemos!
 
 ## 🤝 ¡Conectemos!
 
