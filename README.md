@@ -183,7 +183,7 @@
 ---
 
 ### 🛡️ **Foodimental App — Gestión Integral de Laboratorio**
-<img src="https://img.shields.io/badge/Estado-Confidencial-red?style=flat-square"> <img src="https://img.shields.io/badge/Tipo-Gestión%20Científica%20%2F%20Regulatoria-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Estado-Entregado-red?style=flat-square"> <img src="https://img.shields.io/badge/Tipo-Gestión%20Científica%20%2F%20Regulatoria-blue?style=flat-square">
 
 > *Ecosistema digital centralizado: Control total sobre laboratorios, inventarios y cumplimiento normativo ISO*
 
