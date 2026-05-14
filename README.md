@@ -151,7 +151,7 @@
 ---
 
 ### 🎣 **PabloTC Fishing**
-<img src="https://img.shields.io/badge/Estado-Completado-28a745?style=flat-square"> <img src="https://img.shields.io/badge/Tipo-Portfolio-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Estado-Desplegado-28a745?style=flat-square"> <img src="https://img.shields.io/badge/Tipo-Portfolio_Pesca-blue?style=flat-square">
 
 > *Proyecto de mi portfolio de pesca*
 
