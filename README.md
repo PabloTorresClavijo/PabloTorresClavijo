@@ -134,6 +134,21 @@
 ## 🎮 Proyectos Destacados
 
 <div align="center">
+  
+### 🛡️ **PabloTC — Portfolio Profesional**
+<img src="https://img.shields.io/badge/Estado-Desplegado-28a745?style=flat-square"> <img src="https://img.shields.io/badge/Tipo-Portfolio%20%2F%20Ciberseguridad-blue?style=flat-square">
+
+> *Mi escaparate digital personal: Desarrollo Full-Stack con enfoque en seguridad*
+
+**🎯 Objetivo:** Desarrollar una experiencia web SPA de alto impacto visual y rendimiento excepcional, diseñada para demostrar habilidades técnicas tanto en el frontend moderno (React 19) como en la seguridad defensiva del backend (PHP 8).
+<br>
+**⚡ Aprendizajes:** Implementación avanzada de **Framer Motion** para micro-interacciones premium, gestión de rendimiento crítico (LCP, compresión Brotli) y fortificación de formularios contra ataques automatizados e inyecciones.
+
+**[🔗 Ver Repositorio](https://github.com/PabloTorresClavijo/Portfolio-Website)**
+
+[![Web](https://img.shields.io/badge/Web-En_Linea-success?style=for-the-badge&logo=generic-express&logoColor=white)](https://pablotc.dev)
+
+---
 
 ### 🎣 **PabloTC Fishing**
 <img src="https://img.shields.io/badge/Estado-Completado-28a745?style=flat-square"> <img src="https://img.shields.io/badge/Tipo-Portfolio-blue?style=flat-square">
