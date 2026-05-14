@@ -19,7 +19,7 @@
   
   <br>
   
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/pablo-torres-clavijo/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/pablo-torres-clavijo/)
   [![Email](https://img.shields.io/badge/Email-Hablemos-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:contacto@pablotc.dev)
   
 </div>
@@ -99,15 +99,12 @@
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox">
 </p>
 
-
-
 #### 📦 Otros
 <p>
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-
 </p>
 
 </div>
@@ -131,10 +128,11 @@
 <br>
 
 ---
+
 ## 🎮 Proyectos Destacados
 
 <div align="center">
-  
+
 ### 🛡️ **PabloTC — Portfolio Profesional**
 <img src="https://img.shields.io/badge/Estado-Desplegado-28a745?style=flat-square"> <img src="https://img.shields.io/badge/Tipo-Portfolio%20%2F%20Ciberseguridad-blue?style=flat-square">
 
@@ -157,20 +155,20 @@
 
 **🎯 Objetivo:** Desarrollar una plataforma Full Stack de alto rendimiento para centralizar contenido técnico de pesca, optimizada para dispositivos móviles y con estándares de seguridad avanzados.  
 <br>
-**⚡ Aprendizajes:** Dominio de React 18 y TypeScript para crear una SPA con carga diferida, mejorando drásticamente el rendimiento y la experiencia de usuario. 
+**⚡ Aprendizajes:** Dominio de React 18 y TypeScript para crear una SPA con carga diferida, mejorando drásticamente el rendimiento y la experiencia de usuario.
 
 **[🔗 Ver Repositorio](https://github.com/PabloTorresClavijo/pablotcfishing)**
 
 [![Web](https://img.shields.io/badge/Web-En_Linea-success?style=for-the-badge&logo=generic-express&logoColor=white)](https://pablotcfishing.com)
 
 ---
+
 ### 🎡 **La Manivela - Portal de Socios**
 <img src="https://img.shields.io/badge/Estado-Entregado-28a745?style=flat-square"> <img src="https://img.shields.io/badge/Tipo-Plataforma_Privada-blue?style=flat-square">
 
 > *Sistema de gestión interna y comunicación para Caseta de Feria*
 
 **🎯 Objetivo:** Digitalizar la operativa de una asociación tradicional mediante una plataforma privada, centralizando documentos, noticias y galerías multimedia bajo un entorno seguro con acceso restringido.
-
 
 **⚡ Aprendizajes:** Implementación de un sistema robusto de gestión de roles (RBAC) y lógica de autenticación para garantizar la privacidad de los datos de los socios y la integridad de los documentos internos.
 
@@ -196,6 +194,8 @@
 🔒 Acceso Restringido (Contenido privado por motivos de confidencialidad y seguridad)
 
 ![Web](https://img.shields.io/badge/Sistema-En_Linea-success?style=for-the-badge&logo=react&logoColor=white)
+
+</div>
 
 ---
 
@@ -261,14 +261,12 @@ const pablo = {
 };
 
 console.log(`${pablo.nombre} está listo para crear y proteger soluciones increíbles! 🚀🛡️`);
-
 ```
 
 ## 🤝 ¡Conectemos!
 
 <div align="center">
 
-  
   ### 💬 *"Las mejores ideas nacen de las mejores conversaciones"*
   
   **¿Tienes una idea loca? ¿Un proyecto interesante? ¿O simplemente quieres charlar sobre código?**  
