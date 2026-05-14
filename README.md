@@ -181,6 +181,24 @@
 ![Web](https://img.shields.io/badge/Web-En_Linea-success?style=for-the-badge&logo=generic-express&logoColor=white)
 
 ---
+
+### 🛡️ **Foodimental App — Gestión Integral de Laboratorio**
+<img src="https://img.shields.io/badge/Estado-Confidencial-red?style=flat-square"> <img src="https://img.shields.io/badge/Tipo-Gestión%20Científica%20%2F%20Regulatoria-blue?style=flat-square">
+
+> *Ecosistema digital centralizado: Control total sobre laboratorios, inventarios y cumplimiento normativo ISO*
+
+**🎯 Objetivo:** Desarrollar una plataforma SPA robusta y de alto impacto visual diseñada para digitalizar la operativa diaria de laboratorios científicos. El enfoque principal reside en la trazabilidad absoluta de proyectos, la automatización de informes técnicos y la seguridad estricta en el manejo de datos sensibles.
+<br>
+**⚡ Aprendizajes:** Implementación de un **Design System** premium basado en Vanilla CSS, gestión avanzada de seguridad con **JWT** y **Helmet**, generación dinámica de documentación técnica en PDF y arquitectura modular para la separación de procesos regulatorios y experimentales.
+
+**[🔐 Repositorio Privado](https://github.com/PabloTorresClavijo/foodimental)**
+
+🔒 Acceso Restringido (Contenido privado por motivos de confidencialidad y seguridad)
+
+[![Web](https://img.shields.io/badge/Sistema-En_Linea-success?style=for-the-badge&logo=react&logoColor=white)]
+
+---
+
 ## 🎭 Más sobre mí
 
 ```javascript
