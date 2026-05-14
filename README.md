@@ -191,11 +191,11 @@
 <br>
 **⚡ Aprendizajes:** Implementación de un **Design System** premium basado en Vanilla CSS, gestión avanzada de seguridad con **JWT** y **Helmet**, generación dinámica de documentación técnica en PDF y arquitectura modular para la separación de procesos regulatorios y experimentales.
 
-**[🔐 Repositorio Privado](https://github.com/PabloTorresClavijo/foodimental)**
+**[🔗 Ver Repositorio](https://github.com/PabloTorresClavijo/foodimental)**
 
 🔒 Acceso Restringido (Contenido privado por motivos de confidencialidad y seguridad)
 
-[![Web](https://img.shields.io/badge/Sistema-En_Linea-success?style=for-the-badge&logo=react&logoColor=white)]
+![Web](https://img.shields.io/badge/Sistema-En_Linea-success?style=for-the-badge&logo=react&logoColor=white)
 
 ---
 
