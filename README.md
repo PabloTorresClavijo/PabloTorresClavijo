@@ -144,7 +144,7 @@
 <br>
 **⚡ Aprendizajes:** Implementación avanzada de **Framer Motion** para micro-interacciones premium, gestión de rendimiento crítico (LCP, compresión Brotli) y fortificación de formularios contra ataques automatizados e inyecciones.
 
-**[🔗 Ver Repositorio](https://github.com/PabloTorresClavijo/Portfolio-Website)**
+**[🔗 Ver Repositorio](https://github.com/PabloTorresClavijo/PabloTC-Portfolio)**
 
 [![Web](https://img.shields.io/badge/Web-En_Linea-success?style=for-the-badge&logo=generic-express&logoColor=white)](https://pablotc.dev)
 
