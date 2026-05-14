@@ -200,7 +200,7 @@
 ---
 
 ## 🎭 Más sobre mí
-<div>
+
 ```javascript
 const pablo = {
     // 🏠 Datos básicos
@@ -263,7 +263,7 @@ const pablo = {
 console.log(`${pablo.nombre} está listo para crear y proteger soluciones increíbles! 🚀🛡️`);
 
 ```
-</div>
+
 ## 🤝 ¡Conectemos!
 
 <div align="center">
