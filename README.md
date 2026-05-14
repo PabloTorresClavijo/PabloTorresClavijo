@@ -20,7 +20,7 @@
   <br>
   
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/pablo-torres-clavijo/)
-  [![Email](https://img.shields.io/badge/Email-Hablemos-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:pablotc05@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-Hablemos-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:contacto@pablotc.dev)
   
 </div>
 
@@ -206,8 +206,15 @@ const pablo = {
     // 🏠 Datos básicos
     nombre: "Pablo Torres Clavijo",
     ubicacion: "Sevilla (España) 🇪🇸",
-    rol: "Web Developer — Full-Stack en crecimiento",
+    rol: "Full-Stack Developer & Cybersecurity Specialist",
     
+    // 🎓 Formación Académica
+    formacion: {
+        gradoMedio: "SMR (Sistemas Microinformáticos y Redes)",
+        gradoSuperior: "DAW (Desarrollo de Aplicaciones Web)",
+        postgrado: "Máster en Ciberseguridad"
+    },
+
     // 🎯 Stack tecnológico (proyectos reales)
     stack: {
         frontend: {
@@ -225,31 +232,35 @@ const pablo = {
             auth: ["JWT", "Magic Link Auth"],
             payments: ["PayPal API"]
         },
+        cybersecurity: {
+            skills: ["Pentesting web", "Auditoría de código", "Seguridad en redes", "OWASP Top 10"],
+            tools: ["Wireshark", "Nmap", "Burp Suite (básico)"]
+        },
         databases: ["PostgreSQL", "MySQL", "SQL Server"],
         tools: ["Supabase", "Git", "Docker (básico)", "pnpm"]
     },
     
     // 💝 Pasiones
     pasiones: [
-        "Desarrollo web con enfoque real 🚀",
-        "Arquitecturas escalables 🏗️",
+        "Desarrollo web con enfoque DevSecOps 🛡️",
+        "Arquitecturas escalables y seguras 🏗️",
         "UI/UX funcional y limpia 🎨",
-        "Código mantenible y legible ✨"
+        "Código mantenible, legible y hardening de apps ✨"
     ],
     
     // 🌟 Estado actual
-    estado: "Buscando primera experiencia profesional en desarrollo web",
+    estado: "Buscando oportunidad en Desarrollo Web o Ciberseguridad",
     disponible: true,
-    explorando: ["NestJS", "Prisma", "Testing automatizado"],
+    explorando: ["NestJS", "Prisma", "Seguridad en la nube (AWS/Azure)"],
     
     // 💭 Filosofía de código
-    filosofia: "Primero claridad, luego velocidad.",
+    filosofia: "Security by design & Clarity over speed.",
     
     // 🚀 Próximo objetivo
-    proximoReto: "Formar parte de un equipo de desarrollo y aportar valor en proyectos reales"
+    proximoReto: "Unir mis conocimientos de desarrollo y seguridad en un equipo profesional"
 };
 
-console.log(`${pablo.nombre} está listo para crear cosas increíbles! 🚀`);
+console.log(`${pablo.nombre} está listo para crear y proteger soluciones increíbles! 🚀🛡️`);
 
 ```
 
@@ -269,7 +280,7 @@ console.log(`${pablo.nombre} está listo para crear cosas increíbles! 🚀`);
   <br>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hablemos%20de%20tecnología-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-torres-clavijo/)
-  [![Gmail](https://img.shields.io/badge/Email-Mándame%20un%20mensaje-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablotc05@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Email-Mándame%20un%20mensaje-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@pablotc.dev)
   
   <br>
   
