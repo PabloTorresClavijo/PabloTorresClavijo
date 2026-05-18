@@ -180,6 +180,20 @@
 
 ---
 
+### 🛒 **PRECIOSYA**
+<img src="https://img.shields.io/badge/Estado-Completado-28a745?style=flat-square"> <img src="https://img.shields.io/badge/Tipo-TFG-blue?style=flat-square">
+
+> *Comparador de precios de supermercado en tiempo real (Mercadona, Carrefour, Dia y Lidl)*
+
+**🎯 Objetivo:** Desarrollar una plataforma web funcional y segura con estética brutalist para centralizar, filtrar y comparar costes de productos de consumo diario, optimizando el ahorro del usuario.  
+<br>
+**⚡ Aprendizajes:** Implementación de arquitectura orientada a API (PHP), protección estricta mediante Prepared Statements contra inyección SQL, y gestión híbrida de persistencia combinando sesiones nativas y localStorage
+**[🔗 Ver Repositorio](https://github.com/PabloTorresClavijo/preciosya)**
+
+![Web](https://img.shields.io/badge/Web-En_Linea-success?style=for-the-badge&logo=generic-express&logoColor=white)
+
+---
+
 ### 🛡️ **Foodimental App — Gestión Integral de Laboratorio**
 <img src="https://img.shields.io/badge/Estado-Entregado-red?style=flat-square"> <img src="https://img.shields.io/badge/Tipo-Gestión%20Científica%20%2F%20Regulatoria-blue?style=flat-square">
 
